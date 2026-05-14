@@ -1,89 +1,179 @@
-# Hi there, I'm Emam Hasan 👋
+<div align="center">
 
-**Machine Learning Engineer** | **AI & NLP Researcher** | **Bangladeshi**
+# 👋 Hey, I'm Emam Hasan
 
-I build production AI systems — from RAG chatbots serving millions of users to lightweight edge-deployed vision models. My research spans medical image analysis, low-resource NLP, and model efficiency.
+### Machine Learning Engineer • NLP • Computer Vision • RAG Systems
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Reliable+AI+Systems;Machine+Learning+Engineer+at+Nascenia;Bengali+NLP+%7C+LLMs+%7C+RAG;Computer+Vision+Researcher;Backend+Engineer+%26+AI+Developer" />
 
-## 🔬 Research Interests
+<img src="https://komarev.com/ghpvc/?username=emamhasanai&label=Profile%20Views&color=0e75b6&style=flat" />
 
-- Low-resource & dialect NLP (Bangla dialects, machine translation)
-- Medical image analysis (OCR, retinopathy, cell biology)
-- Model efficiency — knowledge distillation, edge deployment
-- Retrieval-Augmented Generation (RAG) systems
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-**AI/ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+🧠 Machine Learning Engineer from Bangladesh focused on building real-world AI systems.
 
-**Backend & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+- 💼 Machine Learning Engineer at **Nascenia**
+- 🔬 Research interests:
+  - Large Language Models (LLMs)
+  - Bengali NLP
+  - Retrieval-Augmented Generation (RAG)
+  - Semantic Search
+  - Computer Vision
+  - Biomedical Image Analysis
+- ⚡ Passionate about production AI engineering & intelligent systems
+- 🌱 Exploring MLOps, AI deployment & scalable backend systems
 
 ---
 
-## 🏆 Selected Publications
+# 🛠️ Tech Stack
 
-| Year | Title | Publisher |
-|------|-------|-----------|
-| 2026 | Deep Learning-Enhanced OCT Image Analysis Pipeline | Springer |
-| 2025 | CellRegNet: Deep Learning for Protein Function | BR Foundation |
-| 2024 | ThreatScan: Website Security with ML | IEEE TENSYMP |
-| 2024 | Ensemble Deep Learning for Hair Fall Classification | IEEE TENSYMP |
-| 2023 | Lightweight Diabetic Retinopathy via KD | MDPI |
-| 2023 | EWasteNet: E-Waste Classification | IEEE ICSECS |
-| 2023 | Data Segmentation with Improved K-Means | IEEE ICCIT |
+<div align="center">
 
----
+## Languages
 
-## 🚀 Featured Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔍 Vehicle Detector
-> Lightweight YOLOv8n detecting 11 vehicle classes — deployed on Android via ONNX Runtime at **22 FPS**
+## AI / Machine Learning
 
-### 📰 NewsTok
-> TikTok-style AI news platform converting scraped articles into short reels — Spring Boot + Python dual-server
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 
-### 🎬 Cinephiles
-> Full-stack movie platform with recommendation engine and watch parties — led a team of 5
+## Backend & Deployment
 
----
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🏅 Awards
+## Tools
 
-- 🥇 **1st Place** — UIU Intra University AI Contest (100+ participants)
-- 🏆 **Finalist** — National Collegiate Programming Contest, Jahangirnagar University
-- 💰 **USD 2,500 Research Grant** — Institute of Advanced Research, UIU
-- 🥉 **2nd Runner-up** — UIU CSE Project Show (Microprocessors Lab)
-- **4th Place** — UIU Coders' Combat 3.0 (200+ participants)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🔥 Featured Projects
 
-![Emam's GitHub stats](https://github-readme-stats.vercel.app/api?username=foyez-hub&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=foyez-hub&layout=compact)
+## 🤖 MyGov AI Assistant
+
+RAG-powered multilingual government assistant featuring:
+
+- Bengali NLP
+- Semantic Search
+- LLM Integration
+- Intelligent document QA
+- Production AI pipelines
 
 ---
 
-## 📬 Connect
+## 📰 NewsTok
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/emam-hasan302)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emamhasan9203@gmail.com)
+AI-powered short-form news platform inspired by TikTok.
+
+### Features
+- Personalized recommendation system
+- AI-generated news reels
+- ML-powered content understanding
+- Spring Boot backend
 
 ---
 
+## 🌐 Low-Resource NLP Research
+
+Research on Chittagonian ↔ Bangla machine translation using Transformer architectures.
+
+### Contributions
+- Dataset creation
+- Data preprocessing
+- Custom tokenization
+- Sequence-to-sequence training
+
+---
+
+# 📚 Research & Publications
+
+🔬 Research areas include:
+
+- NLP
+- AI Security
+- Computer Vision
+- Biomedical Image Analysis
+- Semantic Retrieval
+- Clustering
+
+📄 Presented research at **ICDSAIA 2025**
+
+> Deep Learning-Enhanced OCT Image Analysis Pipeline:
+> Integrating Denoising, Super-Resolution & Fuzzy Logic for Improved Clinical Diagnostics
+
+---
+
+# 🏆 Achievements
+
+🥇 Champion — UIU Intra University AI Contest  
+🏅 4th Place — UIU Coders' Combat 3.0  
+🥈 2nd Runner-up — Microprocessors & Microcontrollers Lab Project Show  
+💻 ICPC Preliminary Contest Participant  
+📄 IEEE Conference Presenter
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=emamhasanai&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://emamhasanai.github.io/emam/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
+<a href="https://github.com/emamhasanai">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:emamhasan9203@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# ⚡ Fun Zone
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=emamhasanai&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building reliable AI systems for real-world use."
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
